@@ -1,0 +1,13 @@
+#======================================#
+# SECRETS AND CREDENTIAL #
+#======================================#
+# 1. Envionments
+.env
+.env.*
+!.env.example
+
+# VSCode metadata
+.vscode
+.vscode*
+
+.venv/
